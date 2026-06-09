@@ -2,6 +2,16 @@
 
 This demo runs three Flask microservices, a monitor that auto-restarts failing services, and an analytics dashboard for developer visibility.
 
+## My Contributions
+
+**Kavya S Nair**
+
+- Web Application Development
+- Frontend Design and Implementation
+- Docker Containerization
+- Multi-Service Deployment Configuration
+- Assisted in Project Documentation and Report Preparation
+
 ## Run
 
 1. Start services with Docker:
